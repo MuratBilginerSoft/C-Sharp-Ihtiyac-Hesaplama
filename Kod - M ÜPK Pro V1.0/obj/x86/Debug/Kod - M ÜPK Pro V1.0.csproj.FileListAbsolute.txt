@@ -1,0 +1,32 @@
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Kod - M ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\bin\Debug\Kod - M ÜPK Pro V1.0.exe
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Kod - M ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\bin\Debug\Kod - M ÜPK Pro V1.0.pdb
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Kod - M ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod___M_ÜPK_Pro_V1._0.Properties.Resources.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Kod - M ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod - M ÜPK Pro V1.0.csproj.GenerateResource.Cache
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Kod - M ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod - M ÜPK Pro V1.0.exe
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Kod - M ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod - M ÜPK Pro V1.0.pdb
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Kod - M ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod___M_ÜPK_Pro_V1._0.Giriş.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Kod - M ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod___M_ÜPK_Pro_V1._0.İhtiyaç_Hesapla.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Kod - M ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod - M ÜPK Pro V1.0.pdb
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Kod - M ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\bin\Debug\Kod - M ÜPK Pro V1.0.exe
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Kod - M ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\bin\Debug\Kod - M ÜPK Pro V1.0.pdb
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Kod - M ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod___M_ÜPK_Pro_V1._0.Giriş.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Kod - M ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod___M_ÜPK_Pro_V1._0.Properties.Resources.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Kod - M ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod___M_ÜPK_Pro_V1._0.İhtiyaç_Hesapla.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Kod - M ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod - M ÜPK Pro V1.0.csproj.GenerateResource.Cache
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Kod - M ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod - M ÜPK Pro V1.0.exe
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\34 ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod - M ÜPK Pro V1.0.exe
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\34 ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod - M ÜPK Pro V1.0.pdb
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\34 ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\bin\Debug\Kod - M ÜPK Pro V1.0.exe
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\34 ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\bin\Debug\Kod - M ÜPK Pro V1.0.pdb
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\34 ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod___M_ÜPK_Pro_V1._0.Giriş.resources
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\34 ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod___M_ÜPK_Pro_V1._0.Properties.Resources.resources
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\34 ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod___M_ÜPK_Pro_V1._0.İhtiyaç_Hesapla.resources
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\34 ÜPK Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod - M ÜPK Pro V1.0.csproj.GenerateResource.Cache
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\20 - Üpk Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod - M ÜPK Pro V1.0.exe
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\20 - Üpk Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod - M ÜPK Pro V1.0.pdb
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\20 - Üpk Pro V1.0\Kod - M ÜPK Pro V1.0\bin\Debug\Kod - M ÜPK Pro V1.0.exe
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\20 - Üpk Pro V1.0\Kod - M ÜPK Pro V1.0\bin\Debug\Kod - M ÜPK Pro V1.0.pdb
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\20 - Üpk Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod___M_ÜPK_Pro_V1._0.Giriş.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\20 - Üpk Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod___M_ÜPK_Pro_V1._0.Properties.Resources.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\20 - Üpk Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod___M_ÜPK_Pro_V1._0.İhtiyaç_Hesapla.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\20 - Üpk Pro V1.0\Kod - M ÜPK Pro V1.0\obj\x86\Debug\Kod - M ÜPK Pro V1.0.csproj.GenerateResource.Cache
